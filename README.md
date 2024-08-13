@@ -9,6 +9,8 @@
 - 📫 How to reach me [deepak8521010922singh@gmail.com](mailto:deepak8521010922singh@gmail.com)  
 - 🎉 Fun fact: I hate Travelling.
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-138110241/)
 
