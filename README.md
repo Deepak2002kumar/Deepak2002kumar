@@ -1,6 +1,5 @@
 
-![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/Big-Data-Banner.webp)
-
+![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/desktop-wallpaper-data-analytics-data-analysis-and-development-services-data-analytics.jpg)
 # Hi 👋, I'm Deepak Kumar 
  **Data Analytics Professional from India**
 
