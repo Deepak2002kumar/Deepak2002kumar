@@ -1,8 +1,8 @@
 
 ![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/data-analytics.png)
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<p align="center"><strong>**Data Analytics Professional from India**</strong></p>
 
-# Hi 👋, I'm Deepak Kumar 
- **Data Analytics Professional from India**
 
 - 🌟"Turning data into actionable insights, one dataset at a time."  
 - 📊 I'm currently learning Data Analytics  
