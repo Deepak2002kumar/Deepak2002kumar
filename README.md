@@ -1,5 +1,6 @@
 
-![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/desktop-wallpaper-data-analytics-data-analysis-and-development-services-data-analytics.jpg)
+![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/data-analytics.png)
+
 # Hi 👋, I'm Deepak Kumar 
  **Data Analytics Professional from India**
 
