@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Deepak2002kumar/Deepak2002kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![E-R.png](https://raw.githubusercontent.com/Deepak2002kumar/Deepak2002kumar/main/Big-Data-Banner.webp)
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Deepak Kumar 
+ **Data Analytics Professional from India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟"Turning data into actionable insights, one dataset at a time."  
+- 📊 I'm currently learning Data Analytics  
+- 📫 How to reach me [deepak8521010922singh@gmail.com](mailto:deepak8521010922singh@gmail.com)  
+- 🎉 Fun fact: I hate Travelling.
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-138110241/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-GREEN?logo=leetcode&logoColor=white)](https://leetcode.com/u/Deepak_singh123/)
+
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-red?logo=sqlite&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-GREEN?logo=microsoft-excel&logoColor=white)
+
+
+
+
+### GitHub Stats:
+![Deepak2002kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak2002kumar&show_icons=true&theme=white)
+
+
